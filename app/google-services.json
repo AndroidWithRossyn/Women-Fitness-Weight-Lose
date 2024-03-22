@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779313937497",
+    "project_id": "women-home-workout-a325e",
+    "storage_bucket": "women-home-workout-a325e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779313937497:android:cdd5f51e2c138f4d760548",
+        "android_client_info": {
+          "package_name": "com.rbs.womenhomeworkout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779313937497-8ubbt0ar1bmtnsrbq2kkfd3e0t7too0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4hLSNMdDAnhWEoMuD4HE4tnTp4j19d64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779313937497-8ubbt0ar1bmtnsrbq2kkfd3e0t7too0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
